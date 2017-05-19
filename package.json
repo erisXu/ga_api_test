@@ -1,0 +1,19 @@
+{
+  "name": "testhttprequest",
+  "version": "1.0.0",
+  "description": "to test http request from nodejs",
+  "main": "httprequestnode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "https"
+  ],
+  "author": "eris",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^19.0.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {}
+}
